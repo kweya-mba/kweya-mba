@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kweya-mba
-- 👀 I’m interested in vue
+- 👀 I’m interested in django
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on vue-supabase
+- 💞️ I’m looking to collaborate on Ai
 - 📫 How to reach me here
 
 <!---
